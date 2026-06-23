@@ -39,7 +39,7 @@ v3.x if needed.
 
 [Through OSSF TI funding](https://github.com/ossf/tac/issues/536), work continues to
 build a website for monitoring the Rekor transparency log, akin to https://www.gopherwatch.org/.
-See an early version [here](https://github.com/trailofbits/rekor-watch), which will be merged
+See [an early version](https://github.com/trailofbits/rekor-watch), which will be merged
 into [sigstore/rekor-monitor](https://github.com/sigstore/rekor-monitor) shortly. We will
 work with the broader community to identify an organization to stand up an instance of the monitor.
 
